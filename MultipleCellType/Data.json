@@ -1,7 +1,7 @@
 {
     "data": {
         "id": 1,
-        "fullName": "2017 Ford Mustang",
+        "name": "2017 Ford Mustang",
         "pictureUrl": "ford",
         "producer": "Ford Motor Company",
         "about": "Unmistakably Mustang.Modeled after the classic Mustang fastback - with its sleek, sporty aerodynamic look - every 2017 Mustang has standard HID headlamps and signature LED tri-bar taillamps with sequential turn signals. Dual exhaust pipes are standard on all models and air extractor hood vents are standard on GT models. And to match your own unique style, Mustang offers a long list of options, including 12 available wheel designs from 17 inches to 20 inches.",

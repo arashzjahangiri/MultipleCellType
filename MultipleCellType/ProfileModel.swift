@@ -29,7 +29,7 @@ class Profile {
     init?(data: Data) {
         do {
             if let json = try JSONSerialization.jsonObject(with: data) as? [String: Any], let body = json["data"] as? [String: Any] {
-                self.fullName = body["fullName"] as? String
+                self.fullName = body["name"] as? String
                 self.pictureUrl = body["pictureUrl"] as? String
                 self.about = body["about"] as? String
                 self.producer = body["producer"] as? String
